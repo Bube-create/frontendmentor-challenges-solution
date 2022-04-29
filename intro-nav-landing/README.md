@@ -7,8 +7,7 @@ This is a solution to the [Intro section with dropdown navigation challenge on F
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Live Site URL: [view site live](https://frontendmentor-challenges-solution.vercel.app/)
 
 ## My process
 

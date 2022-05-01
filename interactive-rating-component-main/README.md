@@ -9,7 +9,7 @@ This is a solution to the [Interactive rating component](https://www.frontendmen
 
 ### Links
 
--   Live Site URL: [view site live](https://frontendmentor-challenges-solution.vercel.app/)
+-   Live Site URL: [view site live](https://interactive-rating-amber.vercel.app/)
 
 ## My process
 

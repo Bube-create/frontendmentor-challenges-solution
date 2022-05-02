@@ -3,12 +3,11 @@
 This is a solution to the [Advice Generator App](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db/hub/advice-generator-app-ByH2aX2Sc). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ### Screenshot
-
-![Screenshot 2022-05-01 at 16-46-53 Frontend Mentor Interactive rating component](https://user-images.githubusercontent.com/53101939/166153686-024fff40-8b97-45dd-a1ef-cf364395ce35.png)
+![Screenshot 2022-05-02 at 08-37-08 Frontend Mentor Advice generator app](https://user-images.githubusercontent.com/53101939/166200543-3eabbe38-df54-41a2-8fe7-f9b117d3d8a1.png)
 
 ### Links
 
--   Live Site URL: [view site live](https://interactive-rating-amber.vercel.app/)
+-   Live Site URL: [view site live](https://advice-generator-app-indol.vercel.app/)
 
 ## My process
 
@@ -18,10 +17,11 @@ This is a solution to the [Advice Generator App](https://www.frontendmentor.io/c
 -   CSS custom properties
 -   Flexbox
 -   CSS Grid
+-   Fetch API
+-   [ADVICE SLIP API](https://api.adviceslip.com/)
 
 ### Continued development
-
-implement a better form submission
+fetching of advice has a bit of delay
 
 ## Author
 
